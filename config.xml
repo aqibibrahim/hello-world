@@ -12,7 +12,7 @@
     </description>
 
     <author href="http://eweberinc.com" email="info@eweberinc.com">
-        Juan Leyva
+        Aqib Ibrahim
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
