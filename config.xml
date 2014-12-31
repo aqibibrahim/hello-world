@@ -108,6 +108,6 @@
          <application android:debuggable="false" />
     </gap:config-file>
 
-    <access origin="*" />
+    <access origin="www.eweberinc.com" />
 
 </widget>
