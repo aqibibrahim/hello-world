@@ -2,7 +2,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.eweberinc.ewberincsoloution"
+        id        = "com.moodle.moodlemobile"
         versionCode = "384"
         version   = "1.10">
     <name>Eweberinc</name>
@@ -108,6 +108,6 @@
          <application android:debuggable="false" />
     </gap:config-file>
 
-    <access origin="www.eweberinc.com" />
+    <access origin="*" />
 
 </widget>
