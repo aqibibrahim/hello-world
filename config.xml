@@ -2,7 +2,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "com.eweberinc.ewberincsoloution"
         versionCode = "384"
         version   = "1.10">
     <name>Eweberinc</name>
@@ -11,7 +11,7 @@
         Eweberinc Official App
     </description>
 
-    <author href="http://moodle.com" email="juan@moodle.com">
+    <author href="http://eweberinc.com" email="info@eweberinc.com">
         Aqib Ibrahim
     </author>
 
