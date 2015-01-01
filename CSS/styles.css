@@ -433,7 +433,7 @@ hr {
   display: none;
 }
 #add-site #helplogin a {
-  color: #ffffff;
+  color: #f0eaea;
   text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);
   letter-spacing: .5px;
   display: inline-block;
@@ -499,7 +499,7 @@ hr {
   margin-bottom: 44px;
 }
 .header-main {
-  color: #ffffff;
+  color: #f0eaea;
   height: 44px;
   line-height: 44px;
   overflow: hidden;
@@ -579,7 +579,7 @@ hr {
 }
 #panel-right,
 #panel-center {
-  background: #ffffff;
+  background: #f0eaea;
   box-shadow: -10px 0 30px 0 rgba(0, 0, 0, 0.2);
 }
 /* - User menu on the left panel
@@ -603,12 +603,12 @@ hr {
 .user-menu header h1 {
   font-size: 20px;
   font-size: 1.25rem;
-  color: #ffffff;
+  color: #f0eaea;
   text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);
   margin: 5px 0 0;
 }
 .user-menu h2 {
-  color: #ffffff;
+  color: #f0eaea;
   font-size: .75rem;
   text-transform: uppercase;
   text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);
@@ -623,7 +623,7 @@ hr {
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
 .user-menu .nav-item > a {
-  color: #ffffff;
+  color: #f0eaea;
   text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);
   letter-spacing: .5px;
 }
@@ -1488,7 +1488,7 @@ hr {
 #app-dialog .modalHeader {
   font-size: 16px;
   font-size: 1rem;
-  color: #ffffff;
+  color: #f0eaea;
   letter-spacing: .5px;
   text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);
   padding: 10px;
