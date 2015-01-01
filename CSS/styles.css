@@ -45,7 +45,7 @@ body {
   font-size: 16px;
   font-size: 1rem;
   line-height: 24px;
-  background: #C0D9D9 url(../img/bg-orange.png);
+  background: #96CDCD;
 }
 /* =1.3 - Links
 --------------------------------------------------------*/
@@ -503,7 +503,7 @@ hr {
   height: 44px;
   line-height: 44px;
   overflow: hidden;
-  background: #C0D9D9;
+  background: #96CDCD;
   border-bottom: 0;
 }
 .header-main .nav-main {
@@ -585,13 +585,13 @@ hr {
 /* - User menu on the left panel
 -------------------------------------------------------------------------- */
 .user-menu {
-  background: #C0D9D9;
+  background: #96CDCD;
   padding-bottom: 40px;
   height: auto;
 }
 .user-menu header {
   padding: 10px;
-  background: #C0D9D9;
+  background: #96CDCD;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
   box-shadow: none;
 }
@@ -1092,12 +1092,12 @@ hr {
 }
 .path-messages .conversation .conversation-area .bubble-alt {
   background-color: #ffffff;
-  border-color: #C0D9D9;
+  border-color: #96CDCD;
   float: right;
 }
 .path-messages .conversation .conversation-area .bubble-alt:before {
   border-color: transparent;
-  border-left-color: #C0D9D9;
+  border-left-color: #96CDCD;
   left: auto;
   right: -16px;
 }
@@ -1492,7 +1492,7 @@ hr {
   letter-spacing: .5px;
   text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);
   padding: 10px;
-  background-color: #C0D9D9;
+  background-color: #96CDCD;
   -webkit-border-radius: 10px 10px 0 0;
   -moz-border-radius: 10px 10px 0 0;
   border-radius: 10px 10px 0 0;
