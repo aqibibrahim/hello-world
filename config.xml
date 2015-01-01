@@ -4,7 +4,7 @@
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.moodle.moodlemobile"
         versionCode = "384"
-        version   = "1.10">
+        version   = "1.11">
     <name>Eweberinc</name>
 
     <description>
