@@ -102,7 +102,7 @@
     "grades": "Bewertungen",
     "groupeventsnotdisplayed": "Gruppentermine werden nicht angezeigt",
     "help": "Hilfe",
-    "helpmelogin": "<p>Weltweit gibt es Tausende vom Moodle Websites. Diese App kann sich nur mit einer Website verbinden, für die der mobile Zugriff aktiviert wurde.<\/p>\n<p>Wenn Sie sich mit der App nicht verbinden können, informieren Sie den Administrator der Website über das Problem. <a href='http:\/\/docs.moodle.org\/de\/Mobile_App' target='_blank'>http:\/\/docs.moodle.org\/de\/Mobile_App<\/a>.<\/p>\n<p>Um die App mit einer Demo Website zu testen, tragen Sie bitte <i>teacher<\/i> oder <i>student<\/i> in das Feld <i>URL der Website<\/i> ein und klicken Sie auf <b>Hinzufügen<\/b>.<\/p>",
+    "helpmelogin": "<p>Bitte stellen Sie sicher, dass Sie Zugriff haben, um auf Ihr Konto via Mobil vom Administrator verbinden. Auch nach der Freigabe des Zugangs können Sie nicht auf Ihr Konto zu verbinden, dann müssen Sie Ihren Administrator kontaktieren.<\/p>",
     "hours": "Stunden",
     "icantlogin": "Hilfe anzeigen",
     "imagestored": "Das Bild wurde in 'Meine Dateien' gesichert.",

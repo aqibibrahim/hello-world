@@ -103,7 +103,7 @@
     "grades": "Derece(ler)",
     "groupeventsnotdisplayed": "Grup olayları görüntülenemiyor",
     "help": "Yardım",
-    "helpmelogin": "<p>Dünyada binlerce Moodle Sitesi var. Bu uygulama sadece Moodle App girişine izin verilmiş olan Moodle Sitelerinde çalışır<\/><p> Eğer moodle sitenizle bağlantı kuramıyorsanız, Moodle yöneticinize başvurun nereyle bağlantı kuramıyorsanız, yöneticizle iletişime geçin ve şu linkteki açıklamaları okumasını isteyin <a href=\"http:\/\/docs.moodle.org\/en\/Mobile_app\" target=\"_blank\">http:\/\/docs.moodle.org\/en\/Mobile_app<\/a><\/p><p> Deneme yapmak için Moodle demo sitesinde ilgili alanlara <i>öğretmen<\/i> veya <i>öğrenci<\/i> in the <i>Site URL<\/i> seçeneklerini girin ve ekle butonuna tıklayın",
+    "helpmelogin": "<p>Eğer yönetici tarafından yapıldı hesabınıza bağlanmak için erişim verilmiş olduğundan emin olun. Hatta sizin hesabınıza bağlanmak olamaz erişimi sağlayan sonra sonra yöneticinizle başvurmanız gerekir.</p>",
     "hours": "Saat",
     "icantlogin": "Giriş yapamıyorum",
     "imagestored": "Resimleriniz özel depolalama alanınıza kaydedildi.",

@@ -103,7 +103,7 @@
     "grades": "Valutazioni",
     "groupeventsnotdisplayed": "Gli eventi di gruppo non sono visualizzati",
     "help": "Aiuto",
-    "helpmelogin": "<p>Esistono diverse migliaia di siti Moodle al mondo. Queta app può collegarsi solamente in quei siti dove è stato configurato l'accesso Mobile app.<\/p><p>Se non riesci a collegarti al sito Moodle desiderato devi contattare l'amministratore di quel sito e chiedergli di documentarsi su <a href=\"http:\/\/docs.moodle.org\/en\/Mobile_app\" target=\"_blank\">http:\/\/docs.moodle.org\/en\/Mobile_app<\/a><\/p><p>Per provare l'applicazione su un sito Moodle demo inserire <i>teacher<\/i> oppure <i>student<\/i> nel campo <i>Username<\/i> e fare click sul pulsante <b>Aggiungi<\/b>.<\/p>",
+    "helpmelogin": "<p>Assicurati che vi è stato concesso l'accesso per la connessione al proprio account tramite dispositivo mobile dall'amministratore. Anche dopo aver abilitato l'accesso non è possibile connettersi al proprio account, allora avete bisogno di contattare l'amministratore.<\/p>",
     "hours": "Ore",
     "icantlogin": "Impossibile autenticarsi",
     "imagestored": "L'immagine è stata memorizzata nei tuoi file personali",

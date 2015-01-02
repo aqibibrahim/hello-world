@@ -104,7 +104,7 @@
     "grades": "Cijfers",
     "groupeventsnotdisplayed": "Groepsgebeurtenissen worden niet getoond",
     "help": "Help",
-    "helpmelogin": "<p>Er zijn vele Moodle sites over de hele wereld. Deze app kan enkel verbinding maken met Moodle sites die expliciet mobiele toegang ingeschakeld hebben.<\/p><p>Als je geen verbinding met jouw Moodle site kunt maken, vraag dan aan de beheerder van jouw site om <a href='http:\/\/docs.moodle.org\/en\/Mobile_app' target='_blank'>http:\/\/docs.moodle.org\/en\/Mobile_app<\/a> te lezen en de toegang in te schakelen.<\/p><p>Om de app te testen in een Moodle demo site kun je <i>teacher<\/i> of <i>student<\/i> in het  <i>Gebruikersnaam<\/i>-veld typen en de op de <b>Toevoegen<\/b>-knop klikken.<\/p>",
+    "helpmelogin": "<p>Zorg ervoor dat u de toegang is verleend aan te sluiten op uw account via mobiele applicatie door de beheerder. Zelfs na het inschakelen van de toegang kunt u geen verbinding maken met uw account, dan moet u uw beheerder te contacteren.<\/p>",
     "hours": "Uren",
     "icantlogin": "Ik kan niet aanmelden",
     "imagestored": "Je afbeelding is opgeslagen bij je privé-bestanden",

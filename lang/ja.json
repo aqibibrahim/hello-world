@@ -104,7 +104,7 @@
     "grades": "成績",
     "groupeventsnotdisplayed": "グループイベントは表示されません",
     "help": "ヘルプ",
-    "helpmelogin": "<p>世界中に無数のMoodleサイトが存在しますが、本アプリはモバイルアプリからのアクセスを有効にした特別なMoodleサイトでなければ接続できません。<\/p><p>あなたのMoodleサイトにアプリから接続できず、それをできるようにしてもらいたいときには、Moodleサイトの管理ユーザに<a href=\"http:\/\/docs.moodle.org\/en\/Mobile_app\" target=\"_blank\">http:\/\/docs.moodle.org\/en\/Mobile_app<\/a>を読むよう依頼してみてください。<\/p><p>Moodleでもサイトでアプリをテストするには、<em>サイトURL<\/em>の欄に<i>teacher<\/i>あるいは<i>student<\/i>を入力し、<b>追加<\/b>ボタンを押してください。<\/p>",
+    "helpmelogin": "<p>あなたは管理者がモバイル経由で自分のアカウントに接続するためのアクセス権を付与されていることを確認してください。も、あなたはあなたのアカウントに接続できないアクセスを有効にした後、あなたはあなたの管理者に連絡する必要があります。<\/p>",
     "hours": "時間",
     "icantlogin": "ログインできません",
     "imagestored": "あなたの画像がプライベートエリアに保存されました。",

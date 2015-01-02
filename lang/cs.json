@@ -104,7 +104,7 @@
     "grades": "Známky",
     "groupeventsnotdisplayed": "Skupinové události nejsou zobrazeny",
     "help": "Nápověda",
-    "helpmelogin": "<p> Pro přihlášení, prosím ověřte, že: <\/p> 1. Tato stránka Moodle je verze 2.4 nebo vyšší. <br \/>\n2.Správce webu Moodle umožnil mobilní přístup. <br \/> <br \/> <p> Chcete-li otestovat aplikaci  na demo stránkách Moodle typu<i> učitel<\/ i> nebo <i> student <\/ i> v poli <i> Username<\/ i> a klikněte na tlačítko Přidat <b> <\/ b>. <\/ p> <a href = 'http:\/\/docs.moodle.org\/en\/Mobile_app' target = '_blank \"> Pro podrobnější informace a pomoc navštivte stránky dokumentace Moodle. <\/a> <\/p>",
+    "helpmelogin": "<p>Prosím, ujistěte se, že jste byl udělen přístup k připojení k vašemu účtu prostřednictvím mobilního telefonu administrátorem. I po umožnění přístupu nemůžete připojit ke svému účtu, pak je třeba kontaktovat správce. <\/p>",
     "hours": "Hodin",
     "icantlogin": "Nemohu se přihlásit",
     "imagestored": "Obrázek byl uložen do vaší privátního oblasti",

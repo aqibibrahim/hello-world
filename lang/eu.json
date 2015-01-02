@@ -103,7 +103,7 @@
     "grades": "Kalifikazioak",
     "groupeventsnotdisplayed": "Talde-gertakariak ez dira erakusten",
     "help": "Laguntza",
-    "helpmelogin": "<p>Milaka Moodle gune dago munduan zehar. App hau soilik Mobile sarbidea gaituta duten guneetan sartzeko gai da.<\/p><p>Zure Moodle gunera konektatzeko gai ez bazara konektatu nahi zaren Moodle guneko administratzailearekin harremanetan jarri behar zara eta hurrengo esteka irakurtzeko esan: <a href=\"http:\/\/docs.moodle.org\/en\/Mobile_app\" target=\"_blank\">http:\/\/docs.moodle.org\/en\/Mobile_app<\/a><\/p>.<p>App honen demo gunea probatzeko idatzi <i>teacher<\/i> edo <i>student<\/i> <i>Site URL<\/i> eremuan eta <b>Gehitu botoia<\/b> sakatu.<\/p>",
+    "helpmelogin": "<p>Mesedez ziurtatu duzula ematen bada sarbidea zure kontura konektatzeko mugikorren bidez administratzaileak. Nahiz eta gero, sarbide ezin duzu zure kontura konektatzeko gaitu ondoren zure administratzailearekin jarri behar duzu.<\/p>",
     "hours": "Orduak",
     "icantlogin": "Ezin naiz sartu",
     "imagestored": "Zure irudia zure fitxategi pribatuen atalean gorde da",

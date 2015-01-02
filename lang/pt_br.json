@@ -88,7 +88,7 @@
     "grade": "Notas",
     "grades": "Notas",
     "help": "Ajuda",
-    "helpmelogin": "<p>Para efetuar o login, por favor verifique se:<\/p>1. O site Moodle é a versão 2.4 ou superior.<br \/>2. O administrador do site Moodle permitiu o acesso móvel.<br \/><br \/><p> Para testar o aplicativo em um site Moodle demo, digite <i>teacher<\/i>  ou <i>estudent<\/i> no campo <i>Usuário<\/i> e clique no botão <b>Adicionar<\/b>.<\/p><p><a href='http:\/\/docs.moodle.org\/pt_br\/Mobile_app' target='_blank'>Visite o site de documentação do Moodle para informações mais detalhadas e ajuda.<\/a><\/p>",
+    "helpmelogin": "<p>Por favor, certifique-se de que você tenha sido concedido o acesso para se conectar a sua conta via dispositivo móvel por administrador. Mesmo depois de ativar o acesso que você não pode se conectar à sua conta, então você precisa entrar em contato com o administrador.<\/p>",
     "hours": "horas",
     "icantlogin": "Não consigo conectar",
     "imagestored": "Sua imagem foi guardada em sua área privada",

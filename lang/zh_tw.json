@@ -102,7 +102,7 @@
     "grades": "成績",
     "groupeventsnotdisplayed": "群組事件不顯示",
     "help": "協助",
-    "helpmelogin": "<p>要登入前請確認:<\/p>1. Moodle 入口網站版本要是2.4或更高<br \/>2. Moodle 入口網站管理員有啟用手機存取.<br \/><br \/><p>想測試Moodle示範入口網站型態須輸入<i>teacher<\/i> 或<i>student<\/i> 於<i>Username<\/i> 欄位並點選<b>Add button<\/b>.<\/p><p><a href=\"http:\/\/docs.moodle.org\/en\/Mobile_app\" target=\"_blank\">Moodle文件網站有更詳細的資料及協助<\/a><\/p>",
+    "helpmelogin": "<p>請確保您已被授予訪問權限，通過移動由管理員來連接到您的帳戶。甚至讓你無法連接到您的帳戶訪問後，那麼你就需要與管理員聯繫。<\/p>",
     "hours": "小時",
     "icantlogin": "我無法登入",
     "imagestored": "您的相片已存放於您私人檔案區",

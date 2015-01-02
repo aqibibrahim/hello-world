@@ -100,7 +100,7 @@
     "grades": "Betyg",
     "groupeventsnotdisplayed": "Grupphändelser visas inte",
     "help": "Hjälp",
-    "helpmelogin": "<p> För att logga in måste du kontrollera att: <\/ p> 1. Moodle webbplats är version 2.4 eller högre <br \/> 2. Moodle administratören har aktiverat Mobil åtkomst <br... \/> <br \/> <p> För att testa appen på en Moodle demo site skriv <i> lärare <\/ i> eller <i> elev <\/ i> i <i>  i fält för Användarnamn <\/ i>och klicka på <b> Lägg till knapp <\/ b>. <\/ p> <a href='http:\/\/docs.moodle.org\/en\/Mobile_app' target='_blank'> Besök Moodle webbplats för mer detaljerad Moodle information och hjälp. <\/ a> <\/ p>",
+    "helpmelogin": "<p> Vänligen se till att du har beviljats ​​tillgång för att ansluta till ditt konto via mobilen med administratören. Även efter att möjliggöra åtkomst du kan inte ansluta till ditt konto måste du kontakta administratören.<\/ p>",
     "hours": "timmar",
     "icantlogin": "Jag kan inte logga in",
     "imagestored": "Din bild har lagrats i dina privata filer",

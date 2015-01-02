@@ -99,7 +99,7 @@
     "grades": "Qualificacions",
     "groupeventsnotdisplayed": "No es visualitzen els esdeveniments de grup",
     "help": "Ajuda",
-    "helpmelogin": "<p> Per a poder iniciar la sessió, comproveu que :<\/p>1. El lloc Moodle té la versió 2.4 o superior.<br \/> 2. L'administrador del lloc Moodle ha habilitat l'accés mòbil.<br \/><br \/><p>Per a provar l'aplicació en un lloc de demostració, escriviu <i>teacher<\/i> o <i>student<\/i> en el camp <i>Nom d'usuari\/ària<\/i> i feu clic en el botó <b>Afegeix<\/b>.<\/p> <a href='http:\/\/docs.moodle.org\/en\/Mobile_app' target='_blank'>Visiteu el lloc de documentació de Moodle per a informació i ajuda més detallada.<\/a> <\/p>",
+    "helpmelogin": "<p> Si us plau, assegureu-vos que se li ha concedit accés per connectar al seu compte mitjançant dispositiu mòbil per l'administrador. Fins i tot després d'habilitar l'accés no pot connectar al seu compte, llavors vostè necessita posar-se en contacte amb l'administrador.<\/a> <\/p>",
     "hours": "hores",
     "icantlogin": "No puc iniciar la sessió.",
     "imagestored": "La vostra imatge s'ha emmagatzemat en la vostra àrea de fitxers privats.",
