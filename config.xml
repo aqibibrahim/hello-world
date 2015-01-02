@@ -2,13 +2,13 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "com.titans.titansmobile"
         versionCode = "384"
         version   = "1.12">
-    <name>Eweberinc</name>
+    <name>Titans</name>
 
     <description>
-        Eweberinc Official App
+        Titans Official App
     </description>
 
     <author href="http://eweberinc.com" email="info@eweberinc.com">
